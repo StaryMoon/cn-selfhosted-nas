@@ -48,6 +48,11 @@
       "自托管监控面板。"
     ],
     [
+      "SiteWatcher",
+      "https://github.com/NikKurkov/sitewatcher",
+      "自托管网站监控，检查可用性、响应时间以及证书和域名到期时间。"
+    ],
+    [
       "Portainer",
       "https://www.portainer.io/",
       "Docker 管理面板。"

@@ -57,6 +57,7 @@
 | Nextcloud | 个人云盘和协作平台。 | [访问](https://nextcloud.com/) |
 | Vaultwarden | 轻量 Bitwarden 兼容服务。 | [访问](https://github.com/dani-garcia/vaultwarden) |
 | Uptime Kuma | 自托管监控面板。 | [访问](https://github.com/louislam/uptime-kuma) |
+| SiteWatcher | 自托管网站监控，检查可用性、响应时间以及证书和域名到期时间。 | [访问](https://github.com/NikKurkov/sitewatcher) |
 | Portainer | Docker 管理面板。 | [访问](https://www.portainer.io/) |
 | Nginx Proxy Manager | 反向代理和证书管理。 | [访问](https://nginxproxymanager.com/) |
 | Homepage | 自托管服务导航页。 | [访问](https://gethomepage.dev/) |
